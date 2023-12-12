@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Elianto';
-    src: url('../fontElianto/Elianto-Regular.ttf');
-}
-
-.elianto {
-    font-family: 'Elianto', sans-serif;
-    font-size: 40px;
-}
